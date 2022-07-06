@@ -7,7 +7,7 @@ Telecommunications Engineer & Frontend Dev
 I am a 24 year old Frontend Developer with a Bachelor's Degree in Telecommunication Engineering. Proactive, organized and self-taught, capable of performing tasks that require team work, problem solving, and strong communication skills. Passionate about web technologies, telematics and baseball.
 
 * 🌍  I'm based in Caracas, VE.
-* 🖥️  See my portfolio at [simon-hernandez.com](http://simon-hernandez.com)
+* 🖥️  See my portfolio at [simon-hernandez.com](https://simon-hernandez.com)
 * ✉️  You can contact me at [simonhernandezbarboza@gmail.com](mailto:simonhernandezbarboza@gmail.com)
 * 🧠  I'm learning ReactJS, TypeScript, API Restful
 
