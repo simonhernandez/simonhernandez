@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Telecommunications Engineer & Frontend Dev
 ------------------------------------------
 
-I am a 24 year old Frontend Developer with a Bachelor's Degree in Telecommunication Engineering. Proactive, organized and self-taught, capable of performing tasks that require team work, problem solving, and strong communication skills. Passionate about web technologies, telematics and baseball.
+I am a 25 year old Frontend Developer with a Bachelor's Degree in Telecommunication Engineering. Proactive, organized and self-taught, capable of performing tasks that require team work, problem solving, and strong communication skills. Passionate about web technologies, telematics and baseball.
 
 * 🌍  I'm based in Caracas, VE.
 * 🖥️  See my portfolio at [simon-hernandez.com](http://simon-hernandez.com)
